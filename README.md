@@ -1,4 +1,5 @@
 # hello-world
-My first repository
+
+Sandeep's first repository
 
 Excited to learn GitHub...
