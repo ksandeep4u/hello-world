@@ -6,6 +6,6 @@ int main()
 {
 	cout << "Hello visitors ..." << endl;
 
-	cout << "End of the program" << endl;
+	cou << "End of the program" << endl;
 	return 0;
 }
